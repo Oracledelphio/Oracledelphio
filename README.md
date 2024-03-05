@@ -1,5 +1,5 @@
 <h1 align="center">Kurt Sony</h1>
-💫 # About Me:<br>
+💫 About Me:<br>
 🔭 I’m currently working on creating an interactive personal website<br>🌱 I’m currently doing Full Stack Development course from IBM<br>💬 Ask me about anything regarding web development, AI, Machine Learning<br>
 
 
