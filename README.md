@@ -1,4 +1,4 @@
-<h1 align="center">Kurt Sony</h1>
+<h1 align="center">Oracle Delphio</h1>
 💫 About Me:<br>
 🔭 I’m currently working on creating an interactive portfolio website<br>🌱 I’m currently doing Full Stack Development course from IBM<br>💬 Ask me about anything regarding web development, AI, Machine Learning<br>
 
